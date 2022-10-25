@@ -20,7 +20,7 @@ You will now have two folders in the directory you cloned the project into named
 ### API
 Open **PhoneBookApp.API.sln** found in the **PhoneBookApp.API** folder using visual studio 2022.
 
-You will need to change the DefaultConnection under ConnectionStrings in the appsettings.json file to your local database server.
+You will need to change the **DefaultConnection** under **ConnectionStrings** in the appsettings.json file to your local database server.
 
 ![img1](https://user-images.githubusercontent.com/42215418/197880100-62bc22f6-6679-4878-bb38-1be80737b0b9.png)
 
@@ -63,15 +63,15 @@ From the command prompt run the following command
 
 ### `npm install`
 
-This will install the nide packges required for the app. When this is complete you are ready to run the app with the following command
+This will install the node packges required for the app. When this is complete you are ready to run the app with the following command
 
 ### `npm start`
 
-The Phone Book App should now open in your default browser. If it doesn't open automatically enter the following url into your browser to access
+The Phone Book App should now open in your default browser. If it doesn't open automatically enter the following url into your browser to access:
 
 http://localhost:3000
 
 ![img7](https://user-images.githubusercontent.com/42215418/197880273-8590bf31-f6f2-4f45-82b8-48a252effd36.png)
 
 
-You can now add some contact to the phone app!
+You can now add some contacts to the phone app!
