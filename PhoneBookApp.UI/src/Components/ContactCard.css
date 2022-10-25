@@ -1,0 +1,41 @@
+.nameContainer {
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.phoneNumberContainer {
+  color: #b8b1b1;
+  text-decoration: none;
+}
+
+.phoneIcon {
+  font-size: 0.8em;
+}
+
+.editButton {
+  background-color: lightgray;
+  border: none;
+  border-radius: 8px;
+  padding: 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.deleteButton {
+  margin-left: 0.5em;
+  background-color: red;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}

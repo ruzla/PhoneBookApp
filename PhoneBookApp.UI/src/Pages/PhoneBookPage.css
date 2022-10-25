@@ -1,0 +1,63 @@
+.page-title {
+  text-align: center;
+  margin: auto;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin-bottom: 2em;
+  color: #fff;
+  background-color: rgb(49, 49, 223);
+}
+
+.pageHeadingContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 40em;
+  margin: auto;
+}
+
+.addContactButton {
+  align-self: center;
+}
+
+.addButton {
+  margin-left: 0.5em;
+  background-color: rgb(49, 49, 223);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.searchContainer {
+  max-width: 27em;
+  margin: auto;
+  margin-bottom: 0.5em;
+}
+
+.searchBar {
+  background-color: #fff;
+  border-radius: 5px;
+  width: 100%;
+  padding: 1em;
+  padding-left: 1em;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  max-width: 25em;
+  margin: auto;
+  margin-bottom: 0.5em;
+  padding: 1em;
+  background-color: #fff;
+  border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+}
